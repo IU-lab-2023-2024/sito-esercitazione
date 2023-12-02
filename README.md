@@ -1,6 +1,8 @@
 # Sito esercitazione
 
-Durante le lezioni, sarà sviluppato il sito mostrato nel file sito-esercitazioni.pdf.
+Durante le lezioni, sarà sviluppato il sito mostrato nel file <b>sito-esercitazioni.pdf</b>.
+
+Nella cartella <b>img</b> si trovano tutte le immagini da inserire nel sito.
 
 Si provi a riprodurre a casa le parti non sviluppate in classe.
 
